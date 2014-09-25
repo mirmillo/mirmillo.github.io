@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/mirmillo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mirmillo.com
+  * I am mirmillo (https://keybase.io/mirmillo) on keybase.
+  * I have a public key with fingerprint 72FE 5674 0FCA D159 230C  AEE7 2367 E6CA 651A 3FF3
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "72fe56740fcad159230caee72367e6ca651a3ff3",
+            "host": "keybase.io",
+            "key_id": "2367e6ca651a3ff3",
+            "uid": "cecd30f37485df3923e9eeecff19f000",
+            "username": "mirmillo"
+        },
+        "service": {
+            "hostname": "mirmillo.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408214819,
+    "expire_in": 157680000,
+    "prev": "58e8cc397e10decca7adb908c7fea719003ddfe51af7e24b6eac3f37d5f21e30",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.3.1
+Comment: https://keybase.io/crypto
+
+yMHmAnicbZFvSBNhHMe35owUsRdRQi/K6w8hIvdnd7dNNMQiitLEKDFz3T33PNvV
+drdu0yY2mlKJBBb9QQQjwqIYGpVS4BttSYWVKWQyyPIPaQWixlJHmj0n9SZ69fD8
+fp/v9/evJ8VkSDK6H3R9dZs8MeOr7tkKQ/H03S3VhKhKVYS9mjgJVx4kK06oeTVZ
+8RN2gqcRZDneQiIgSBRroxkSCBDyNMPxkAMCx1ICgxBDZBIu1acrsI0o+GCWrOIY
+/jhkCUf/w1esJAAEEkMihrdYWQkxuAC0QQgBQpQNkSSpgz6oKYIHYtojax7Z7VaJ
+YCaBo5UygHrPeul/iCygerDWq6l+FahunHH5/V67LvRXeXXyNBQdfzwcoqxIeG4s
+qISaT1YVwk5hEvhl3ZSykFaaslgpWyYBA15Zgw5ZJ1ies+IWSb0MrMSWrBVaAWBs
+PKRICQIg8IIk2kgr4BEUeMpGkowk4YVSAuIhbRE5KAAGzy6xiKYgow/rg6cUlbBz
+uE3BiS19slMR/BUaJIKR7rIEgzHJkGhepV/OkLRm7d97FiSvXt778lnDr/hynBmL
+fTOVlaT+7BQC9xeXM5zJKGfPZH/zrUv02aMJU3dqt81dO7exf6S9trFl8+L4Ah3K
+/QSa6w+kheK517n9wYFYjqnGJReae+YPTu/8kt60vs9pfLph5vvoJLWPDdwufRMu
+KV46YvZyfefTih43ivN18x8myd7OXWMd4cShh+a3F26s+zyDBu3hPNe7j+nt4uFj
+Ey+ayp8XRH+ElNJgZDqxd6Bw7uaTcFH70vvA8fyU4XsZU5vym8tPXEyNP8ptKIxm
+1URGWqNL20Oj2UVDE21XLy/U7xgvc48udgz2GfICZEv2lbrIobZ0qXW4c7fQONsV
+O/N662/WZSaa
+=LHYH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mirmillo
+
+==================================================================
+
